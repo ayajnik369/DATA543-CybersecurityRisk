@@ -19,7 +19,7 @@ across both a logistic regression classifier (AUC = 0.735) and a Lasso regressio
 |------|-------------|
 | `data543_final.py` | Full analysis pipeline — data cleaning, feature engineering, classification, regression, risk rankings |
 | `DATA543_Final_Presentation_v2.pptx` | Final presentation slides |
-| `DATA543_Presentation_Script.docx` | Speaker script divided across 3 presenters |
+| `DATA543_Presentation_Reeport.docx` | Final Report |
 | `breach_report.csv` | HHS OCR healthcare breach data (2021–2026) |
 | `known_exploited_vulnerabilities.csv` | CISA KEV catalog used for hazard features |
 
